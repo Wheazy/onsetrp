@@ -264,8 +264,13 @@
 	"police_npc_name": "Ralph, Captain",
     "police_npc_message_start": "Hi, do you wish to start your duty ?",
     "police_npc_message_stop": "Hi, do you wish to stop your duty ?",
+<<<<<<< Updated upstream
 	"police_npc_end_start": "Ok, take care, little one.",
 	"npc_end_stop": "Ok, see you later!",
+=======
+	"police_npc_end_start": "Ok, take care, recruit.",
+	"npc_end_stop": "Ok, thank you for your service!",
+>>>>>>> Stashed changes
     "call_backup": "Call Backup",
     "background_check": "Background Check",
     "put_uniform": "Change clothes",
@@ -315,7 +320,8 @@
     "get_equipped": "Get equipped",
     "paid_fine_giver": "The player paid his fine",
     "stylist": "Stylist",
-    "yes": "Yes",
+    "yes": "Yes reporting for duty!",
+	"no": "No not now",
     "choose": "Choose",
     "price_in_currency": "${1}",
     "medic_menu": "Medic Menu",
