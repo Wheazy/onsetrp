@@ -261,6 +261,11 @@
     "police_job": "Police Job",
     "police_menu": "Police Menu",
     "start_stop_police": "Start / Stop Police Duty",
+	"police_npc_name": "Ralph, Captain",
+    "police_npc_message_start": "Hi, do you wish to start your duty ?",
+    "police_npc_message_stop": "Hi, do you wish to stop your duty ?",
+	"police_npc_end_start": "Ok, take care, little one.",
+	"npc_end_stop": "Ok, see you later!",
     "call_backup": "Call Backup",
     "background_check": "Background Check",
     "put_uniform": "Change clothes",
@@ -433,5 +438,7 @@
     "process_cancel": "Treatment canceled, {1} {2} were destroyed",
     "process_not_enough_item": "You need {1} {2} for this",
     "peach_farm": "Peach field",
-    "lumberjack_farm": "Lumberjack's wood"
+    "lumberjack_farm": "Lumberjack's wood",
+	
+	
 }
